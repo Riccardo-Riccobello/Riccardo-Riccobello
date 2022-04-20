@@ -2,6 +2,7 @@
 - 👀 I’m interested in probability, statistics, Machine Learning, Math and programming!
 - 🌱 I’m currently learning Graphical Models
 - 📫 You can reach me on Linkedin: https://www.linkedin.com/in/riccardoriccobello/ or send me a personal email: riccardo.riccobello@studenti.unisalento.it
+- ✨ If you want to discover more about me, visit my website: www.riccardoriccobello.com
 
 <!---
 Riccardo-Riccobello/Riccardo-Riccobello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
